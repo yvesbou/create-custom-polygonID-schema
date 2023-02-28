@@ -1,0 +1,29 @@
+{
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "ProofOfswissDAOMembership": {
+          "@id": "https://raw.githubusercontent.com/yvesbou/create-custom-schema/main/credential-schema/proof-of-swissDAO-membership.jsonld#ProofOfswissDAOMembership",
+          "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "vocab": "https://github.com/yvesbou/create-custom-schema/blob/main/credential-schema/proof-of-swissDAO-membership-vocab.md#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "entryDate": {
+              "@id": "vocab:entryDate",
+              "@type": "xsd:integer"
+            },
+            "partOfswissDAOLabs": {
+              "@id": "vocab:partOfswissDAOLabs",
+              "@type": "xsd:boolean"
+            }
+          }
+        }
+      }
+    ]
+  }
