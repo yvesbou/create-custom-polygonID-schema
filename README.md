@@ -13,7 +13,7 @@ https://raw.githack.com/
     4. Data JSON: 
         ```JSON
         {
-            "entryDate": 1677569419,
+            "entryDate": 20230228,
             "partOfswissDAOLabs": true
         }
         ```
