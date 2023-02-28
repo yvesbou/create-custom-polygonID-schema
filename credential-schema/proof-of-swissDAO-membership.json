@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/yvesbou/create-custom-schema/main/credential-schema/proof-of-swissDAO-membership.jsonld#ProofOfswissDAOMembership",
-        "jsonSchema": "https://raw.githubusercontent.com/yvesbou/create-custom-schema/main/credential-schema/proof-of-swissDAO-membership.json"
+        "jsonLdContext": "https://raw.githack.com/yvesbou/create-custom-polygonID-schema/master/credential-schema/proof-of-swissDAO-membership.jsonld#ProofOfswissDAOMembership",
+        "jsonSchema": "https://raw.githack.com/yvesbou/create-custom-polygonID-schema/master/credential-schema/proof-of-swissDAO-membership.json"
       }
     },
     "required": [

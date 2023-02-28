@@ -6,7 +6,7 @@
         "id": "@id",
         "type": "@type",
         "ProofOfswissDAOMembership": {
-          "@id": "https://raw.githubusercontent.com/yvesbou/create-custom-schema/main/credential-schema/proof-of-swissDAO-membership.jsonld#ProofOfswissDAOMembership",
+          "@id": "https://raw.githack.com/yvesbou/create-custom-polygonID-schema/master/credential-schema/proof-of-swissDAO-membership.jsonld#ProofOfswissDAOMembership",
           "@context": {
             "@version": 1.1,
             "@protected": true,
