@@ -41,7 +41,7 @@ not working atm: form at verifier-demo.polygonid.me does not support string inpu
 
 
 ### Allowed Issuers
-Note: 3.4 asterisk (*) means all Issuer are allowed
+Note: 3.iv asterisk (*) means all Issuer are allowed
 Part of the documentation says the following
 
 > As part of the Query, the Verifier includes the identifiers of the trusted issuers. For example, a Verifier should add XYZ DAO as the only trusted Issuer when verifying that an individual is a member of XYZ DAO. XYZ DAO doesn’t need to accept nor interact with the Verifier.
