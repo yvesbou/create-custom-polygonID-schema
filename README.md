@@ -23,8 +23,10 @@ https://raw.githack.com/
     7. inside app, you receive new claim `ProofOfswissDAOMembership`
 
 
-not working atm: form at verifier-demo.polygonid.me does not support string input
 ## Verifier: proof a credential
+
+not working atm: form at verifier-demo.polygonid.me does not support string input
+
 1. Go to https://verifier-demo.polygonid.me/
 2. Select `Custom`
 3. Fill in Form for Query
